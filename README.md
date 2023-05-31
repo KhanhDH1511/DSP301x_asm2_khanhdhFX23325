@@ -8,3 +8,4 @@ Các bước hướng dẫn chạy file code:
    -Sau khi kết thúc thì chương trình đã tạo ra 1 file chứa các kết quả chi tiết cho từng học sinh trong lớp ở trong EXPLORER
     VD: Ta mở file class1.txt thì chương trình sẽ tạo ra file tên là class1_grades.txt
 
+Mọi chi tiết liên hệ Zalo/SĐT: 0848620621-Hoàng Khanh
